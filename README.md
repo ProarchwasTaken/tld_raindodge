@@ -7,4 +7,4 @@ To run this, all you have to do is put the .py and .json in one folder, and run 
 
 Overall, what do you think? Is there anything I could've done better?
 
-[Screenshot 2022-07-16 183814](https://user-images.githubusercontent.com/86173616/179375683-db7bd80d-9c3c-4d39-bcd0-8c4ebf949282.png)
+![Screenshot 2022-07-16 183814](https://user-images.githubusercontent.com/86173616/179375683-db7bd80d-9c3c-4d39-bcd0-8c4ebf949282.png)
